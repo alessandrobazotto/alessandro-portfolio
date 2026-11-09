@@ -1,0 +1,18 @@
+# Ignorar todos os vídeos
+/assets/videos/**
+
+# Permitir apenas os vídeos finais do portfólio
+!/assets/videos/modelo-dopamina-web.mp4
+!/assets/videos/pronto-web.mp4
+!/assets/videos/black-friday-web.mp4
+!/assets/videos/porto-alegre-preview.mp4
+!/assets/videos/evento-preview.mp4
+!/assets/videos/minha-ex-web.mp4
+!/assets/videos/showreel-v2.mp4
+
+# Arquivos temporários
+/assets/images/showreel-selection/
+/build-showreel.sh
+/build-showreel-v2.sh
+/create-contact-sheets.sh
+/showreel-log.txt
